@@ -1,7 +1,7 @@
 # Guest Lecture LiU: Further Reading
 
 
-### Surveilliance and data mining (Facebook) 
+### Surveillance and data mining (Facebook) 
 
 https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/
 
