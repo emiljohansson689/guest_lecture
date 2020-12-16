@@ -1,5 +1,8 @@
 # Guest Lecture LiU: Further Reading
 
+### Google Quantum Computing
+
+https://www.nature.com/articles/d41586-019-03213-z
 
 ### Surveillance and data mining (Facebook) 
 
